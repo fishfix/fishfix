@@ -2,23 +2,26 @@
   <tr>
     <td valign="top" width="65%">
 
-## Контакты
-- Email: example@mail.com  
-- LinkedIn: [linkedin.com/in/example](https://linkedin.com/in/example)  
-- GitHub: [github.com/username](https://github.com/username)  
-- Telegram: @username
+## Юля Кузнецова
+## Django backend разработчик
 
 ## Навыки
-Python 🐍, Django, DRF, Go, gRPC, REST API, PostgreSQL, Redis, Celery, RabbitMQ ⚙️, Docker, Prometheus, feature flags, канареечные релизы, 1С:Предприятие 8.3, интеграции через REST/HTTP, СКД, технический английский.
+Python, Django, DRF, Go, gRPC, REST API 🐍  
+PostgreSQL, Redis  
+Celery, RabbitMQ ⚙️  
+Docker, Prometheus
+
+## Контакты
+- Telegram: @username
 
     </td>
-    <td valign="top" width="35%" align="center">
-      <img src="https://github.com/fishfix/fishfix/blob/e6ab2c7b3888d6d47778a7c6789bde2a2e238fb8/photo_2025-10-01_13-23-31.jpg" width="200" />
+    <td valign="top" width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/fishfix/fishfix/e6ab2c7b3888d6d47778a7c6789bde2a2e238fb8/photo_2025-10-01_13-23-31.jpg  " width="250" />
     </td>
   </tr>
 </table>
 
-<div align="center">
+
 
 ## Опыт работы
 
@@ -50,7 +53,3 @@ Python 🐍, Django, DRF, Go, gRPC, REST API, PostgreSQL, Redis, Celery, RabbitM
 - Улучшила логику обработки возвратов и списаний.  
 - Разработала отчёт в СКД для сопоставления оплат в 1С и CRM.
 
-</div>
-
----
-*Резюме можно расширить разделами: образование, проекты, сертификаты, open-source вклад.*
