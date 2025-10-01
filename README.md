@@ -12,7 +12,7 @@ Celery, RabbitMQ ⚙️
 Docker, Prometheus
 
 ## Контакты
-- Telegram: @username
+- Telegram: @krutoymag
 
     </td>
     <td valign="top" width="25%" align="center">
